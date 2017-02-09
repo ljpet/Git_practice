@@ -12,4 +12,4 @@ A list:
 ### Third level header
 
 **bold text** and _italic text_
-[link] (www.google.com)
+[link] (http://www.google.com)
